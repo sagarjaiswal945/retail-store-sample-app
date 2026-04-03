@@ -3,7 +3,7 @@
 <!-- GitOps Test: Testing deploy-simple.yml workflow -->
 
 <!-- Test commit -->
-
+# Test
 | Language | Persistence |
 | -------- | ----------- |
 | Java     | N/A         |
